@@ -14,4 +14,4 @@ Listaus satunnaisista asoista joista tykkään
 - Uni
   - Uni uupumisen jälkeen
 - [x] Tee tämä sivu valmiiksi
-![Oma piirrustus](https://github.com/RustiestLad/RustiestLad.github.io/blob/main/artturisirkka.png)
+![Oma piirrustus](artturisirkka.png)
