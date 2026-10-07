@@ -2,6 +2,16 @@
 layout: default
 ---
 
-# Hello!
+# Yök
 
-This is my GitHub Pages website.
+Tämähän on mun Pilvipalvelu kursille, katselet extra-tehtävää E.
+
+Listaus satunnaisista asoista joista tykkään
+- Perunamuussi
+- Natsume Soseki kirjoittana
+- Kalevala
+- Sauna
+- Uni
+  - Uni uupumisen jälkeen
+- [x] Tee tämä sivu valmiiksi
+![Oma piirrustus](https://github.com/RustiestLad/RustiestLad.github.io/blob/main/artturisirkka.png)
